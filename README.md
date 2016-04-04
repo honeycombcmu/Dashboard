@@ -2,9 +2,7 @@
 
 ### System requirement
 * install [Django](https://www.djangoproject.com/download/), version 1.9.5
-* On Mac or Linux ```
-sudo pip install Django==1.9.5 
-```
+* On Mac or Linux ```sudo pip install Django==1.9.5 ```
 ###Instruction
 *   Pull/Download zip [repository](https://github.com/honeycombcmu/Dashboard) from github
 *   Open the Terminal
